@@ -5,7 +5,7 @@
     </head>
     <body>
         <p>
-            Hello Ali. Today is <?= date('l \t\h\e jS') ?>.
+            Hellooooo Ali. Today is <?= date('l \t\h\e jS') ?>.
         </p>
     </body>
 </html>
